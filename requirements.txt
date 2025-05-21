@@ -1,0 +1,13 @@
+--only-binary :all:
+streamlit
+PyPDF2==3.0.1
+python-docx==1.1.0
+scikit-learn
+pandas
+numpy
+requests==2.31.0
+beautifulsoup4==4.12.3
+dropbox==11.36.2
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.118.0

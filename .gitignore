@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pkl
+credentials.json
+token.pickle
+sample_documents/ 
